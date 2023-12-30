@@ -11,11 +11,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software a Developer
+- 🏢 I'm a Software Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 💬 Ask me about my experience with DjangoRestFreamwork, Django, and Spring boot, or anything related to backend development.
+- ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
+- 👨‍💻 Check out my profile https://www.linkedin.com/in/mohamed-m%E2%80%99bareck-cheghrane-74b1a423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
 
 
 ### Connect with Me :
